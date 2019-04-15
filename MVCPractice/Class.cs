@@ -9,6 +9,9 @@ namespace MVCPractice
     {
         public void Addnew()
         {
+        }
+        public Class()
+        {
 
         }
     }
