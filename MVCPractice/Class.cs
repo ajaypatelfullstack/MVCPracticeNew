@@ -7,5 +7,8 @@ namespace MVCPractice
 {
     public class Class
     {
+        constructor()
+        {
+        }
     }
 }
