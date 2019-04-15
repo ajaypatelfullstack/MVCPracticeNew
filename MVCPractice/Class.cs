@@ -7,6 +7,9 @@ namespace MVCPractice
 {
     public class Class
     {
-       
+        public Class()
+        {
+
+        }
     }
 }
